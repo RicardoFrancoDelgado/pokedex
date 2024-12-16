@@ -53,3 +53,8 @@ Acesse o projeto em: [Pokédex - Projeto de Prática](https://project-pokedex-fr
 <div align="center">
 <img src="https://i.imgur.com/BZL33ix.png" width="700px"/>
 </div>
+
+---
+
+### Resultado
+https://www.youtube.com/shorts/I5ywToXQAGE
