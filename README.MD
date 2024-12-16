@@ -42,3 +42,5 @@ Acesse o projeto em: [Pokédex - Projeto de Prática](https://project-pokedex-fr
 - **Mobile-First**: Interface otimizada para telas pequenas.
 - **Multi-Device Support**: Adaptável para tablets e desktops.
 
+---
+![Projeto](https://imgur.com/BZL33ix)
