@@ -51,5 +51,5 @@ Acesse o projeto em: [Pokédex - Projeto de Prática](https://project-pokedex-fr
 ---
 
 <div align="center">
-<img src="https://imgur.com/a/pokedex-PbKAoVB" width="700px"/>
+<img src="https://i.imgur.com/BZL33ix.png" width="700px"/>
 </div>
