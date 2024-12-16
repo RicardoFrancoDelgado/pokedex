@@ -50,4 +50,6 @@ Acesse o projeto em: [Pokédex - Projeto de Prática](https://project-pokedex-fr
 
 ---
 
-![Projeto](https://imgur.com/a/pokedex-PbKAoVB)
+<div align="center">
+<img src="https://imgur.com/a/pokedex-PbKAoVB" width="700px"/>
+</div>
