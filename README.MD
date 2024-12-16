@@ -14,6 +14,11 @@ A Pokédex permite:
 
 ---
 
+## 🌐 Link para o Projeto
+Acesse o projeto em: [Pokédex - Projeto de Prática](https://project-pokedex-front.netlify.app/)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 - **Frontend**: HTML | CSS | Javascript.
 - **API**: [PokéAPI](https://pokeapi.co/)
